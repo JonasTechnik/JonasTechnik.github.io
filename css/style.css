@@ -1,0 +1,51 @@
+.btn{
+    background-color: chartreuse;
+    border: 10px;
+    border-radius: 10px;
+    padding: 15px 70px;
+}
+.btn:hover{
+    background-color: greenyellow;
+}
+
+.main_header{
+    padding: 1.8%;
+    background-color: white;
+    border-top-left-radius:25px;
+    border-top-right-radius:25px;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    border-color: rgb(0, 5, 5);
+    border-radius: 10px;
+
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.headerbuttons{
+    background-color: white;
+    border: 0;
+    font-size: medium;
+    float: right;
+    text-align: center;
+    text-decoration: none;
+    padding: 4px 22px;
+}
+
+.downloadBTN{
+    background-color: chartreuse;
+    border: 10px;
+    border-radius: 10px;
+    padding: 15px 70px;
+}
+.downloadBlender{
+    background-color: aqua;
+    border: 10px;
+    border-radius: 10px;
+    padding: 15px 70px;
+}
+
+body {
+    background-color: black;
+  }
+p {
+    color:aliceblue;
+}
