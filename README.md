@@ -1,12 +1,17 @@
-#Update 20.05.2023
-Releaseing GrandTheftAuto Mod Menu Key Database, as the name suggest it allows you to get the key that is nessecery to use the menu without any ads.
+# Update 20.05.2023
 
-Suported ModMenu:
+Releasing Grand Theft Auto Mod Menu Key Database
 
-Crespo
-Liquid
-Grand
+## Introduction
 
-Coming soon:
+Get keys of mod menus without ads
 
-Amnesia
+## Supported Mod Menus
+
+- Crespo
+- Liquid
+- Grand
+
+##Coming soon
+
+-Amnesia
