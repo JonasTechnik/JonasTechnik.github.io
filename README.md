@@ -12,6 +12,6 @@ Get keys of mod menus without ads
 - Liquid
 - Grand
 
-##Coming soon
+## Coming soon
 
--Amnesia
+- Amnesia
