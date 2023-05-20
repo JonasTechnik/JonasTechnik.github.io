@@ -19,7 +19,7 @@ menuItems.forEach((menuItem) => {
         url = "https://crespomods.com/licensekey.php";
         break;
       case "grand":
-        url = "/modmenus/grand.html";
+        url = "keyDatabase/modmenus/grand.html";
         break;
       case "amnesia":
         break;
