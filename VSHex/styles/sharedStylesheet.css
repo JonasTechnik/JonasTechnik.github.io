@@ -1,0 +1,47 @@
+body {
+    background-color: #2B2B2B;
+    color: white;
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: grid;
+}
+
+header {
+    background-color: #1E1E1E;
+    height: 90px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+.headerBTN {
+    height: 45px;
+    width: 120px;
+    border: 0;
+    background-color: transparent;
+    color: white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+
+#headerBTNContainer {
+    padding-top: 45px;
+}
+
+.highlightedArea {
+    width: 100%;
+    height: 500px;
+    background-color: #363636;
+}
+
+.featureArea {
+    background-color: #333333;
+    display: grid;
+    justify-content: center;
+    align-content: center;
+}
+
+.centerHeaderContainer {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
