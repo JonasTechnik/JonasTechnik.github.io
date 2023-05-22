@@ -1,10 +1,6 @@
 const overlay = document.querySelector(".overlay");
 
-overlay.addEventListener("click", function (event) {
-  // Action to be performed when the overlay is clicked
-  console.log("Overlay clicked!");
-  // Add your code here
-});
+overlay.addEventListener("click", function (event) {});
 
 const menuItems = document.querySelectorAll(".menu");
 
@@ -30,3 +26,13 @@ menuItems.forEach((menuItem) => {
     window.open(url, "_blank");
   });
 });
+
+function home() {
+  window.open("index.html");
+}
+function about() {
+  window.open("../../about.html");
+}
+function other() {
+  window.open("../../index.html");
+}

@@ -1,0 +1,10 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+
+    background-color: #236AD4;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 50%;
+}
