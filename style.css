@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
     background-color: #fafafa;
     margin: 0;
-    padding: 0;
+    padding: 0;  
   }
   a:hover {
     pointer-events: none;
@@ -14,7 +14,17 @@ body {
     background-color: #333;
     color: #fff;
   }
-  
+  .cookiePopUp{
+    background-color: #dedede;
+    border: black solid 1px;
+    border-top-left-radius: 13px;
+    border-top-right-radius: 13px;
+  }
+  .cookiePopUp button{
+    border: transparent solid 1px;
+    width: 100px;
+    height: 30px;
+  }
   .logo {
     flex: 1;
   }
